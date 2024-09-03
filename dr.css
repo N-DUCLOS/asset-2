@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    background:linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%),url(simlar.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.navbar{
+background-color: aqua;
+height: 50px;
+}
+
+h2{
+    color: green;
+    font-size: 30px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+    padding-left: 72px;
+
+}
+ul{
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-right: 37px;
+    margin-top: 17px;
+    font-size: 17px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #008000;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: #fff;
+}
+
+.welc{
+    margin-top: 365px;
+    text-align: center;
+    
+}
+
+button{
+font-family: Times New Roman;
+    margin-top: 17px;
+    font-size: 17px;
+  text-align: center;
+  
+
+}
+
+button a{
+    text-decoration: none;
+}
+
+button a:hover{
+    background: grey;
+
+}
+
+h3{
+    color: #fff;
+    font-size: 25px;
+}
+
+p{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.imag{
+    height: 30px;
+    width: 45px;
+    padding-top: 175px;
+    
+
+}
+
+
